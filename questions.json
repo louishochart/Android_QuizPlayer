@@ -1,202 +1,200 @@
-[
-	{
-		"id":1,
-		"question":"Qui a dit 'Le sort en est jeté' (Alea jacta est) ?",
-		"answers": [
-			"Napoléon",
-			"Jules César",
-			"Staline"
-		],
-		"answerIndex": 1
-	},
-	{
-		"id":2,
-		"question":"Quel cinéaste à réalisé 'Parle avec elle' et 'Volver' ?",
-		"answers": [
-			"Woody Allen",
-			"Pablo Trapero",
-			"Pablo Almodovar"
-		],
-		"answerIndex": 2
-	},
-	{
-		"id":3,
-		"question":"Dans quelle ville italienne se situe l’action de la pièce de Shakespeare 'Roméo et Juliette' ?",
-		"answers": [
-			"Milan",
-			"Vérone",
-			"Rome"
-		],
-		"answerIndex": 1
-	},
-	{
-		"id":4,
-		"question":"Par quel mot désigne-t-on une belle-mère cruelle ?",
-		"answers": [
-			"Une chenapan",
-			"Une godiche",
-			"Une marâtre"
-		],
-		"answerIndex": 2
-	},
-	{
-		"id":5,
-		"question":"Qui était le dieu de la guerre dans la mythologie grecque ?",
-		"answers": [
-			"Arès",
-			"Hermès",
-			"Hadès"
-		],
-		"answerIndex": 0
-	},
-	{
-		"id":6,
-		"question":"Dans quel sport s’est illustré Bjorn Borg ?",
-		"answers": [
-			"Football",
-			"Golf",
-			"Tennis"
-		],
-		"answerIndex": 2
-	},
-	{
-		"id":7,
-		"question":"Quel est le nom de la mascotte de l’Euro 2016 ?",
-		"answers": [
-			"Super Victor",
-			"Goalix",
-			"Driblou"
-		],
-		"answerIndex": 0
-	},
-	{
-		"id":8,
-		"question":"Face à quel joueur Yannick Noah a-t-il remporté Roland-Garros en 1983 ?",
-		"answers": [
-			"Mats Wilander",
-			"Ivan Lendl",
-			"John McEnroe"
-		],
-		"answerIndex": 0
-	},
-	{
-		"id":9,
-		"question":"Quel est le nom du plus jeune vainqueur de Roland-Garros ?",
-		"answers": [
-			"Rafael Nadal",
-			"Michael Chang",
-			"André Agassi"
-		],
-		"answerIndex": 1
-	},
-	{
-		"id":10,
-		"question":"Quel est le record du monde masculin du saut à la perche ?",
-		"answers": [
-			"6m05",
-			"6m11",
-			"6m16"
-		],
-		"answerIndex": 2
-	},
-	{
-		"id":11,
-		"question":"De quel pays, les Beatles sont-ils originaires ?",
-		"answers": [
-			"Angleterre",
-			"Etats-Unis",
-			"Irlande"
-		],
-		"answerIndex": 0
-	},
-	{
-		"id":12,
-		"question":" Dans quelle émission télé, le groupe Fréro Delavega s’est-il fait connaître ?",
-		"answers": [
-			"Nouvelle Star",
-			"The Voice",
-			"Star Academy"
-		],
-		"answerIndex": 1
-	},
-	{
-		"id":13,
-		"question":"Qui était le chanteur mythique du groupe Nirvana ?",
-		"answers": [
-			"Ian Curtis",
-			"Bono",
-			"Kurt Cobain"
-		],
-		"answerIndex": 2
-	},
-	{
-		"id":14,
-		"question":"Dans quel groupe de musique Roger Waters, David Gilmour, Syd Barrett ont-ils joué ?",
-		"answers": [
-			"Offspring",
-			"Pink Floyd",
-			"Coldplay"
-		],
-		"answerIndex": 1
-	},
-	{
-		"id":15,
-		"question":"Qui est la mère de David Hallyday ?",
-		"answers": [
-			"Sylvie Vartan",
-			"Nathalie Baye",
-			"Michèle Torr"
-		],
-		"answerIndex": 0
-	},
-	{
-		"id":16,
-		"question":"Sur quelle île se trouve la Statue de la Liberté ?",
-		"answers": [
-			"Ellis Island",
-			"Liberty Island",
-			"eMule Island"
-		],
-		"answerIndex": 1
-	},
-	{
-		"id":17,
-		"question":"Où siège la Cour de Justice de l’Union européenne ?",
-		"answers": [
-			"Amsterdam",
-			"Maastricht",
-			"Luxembourg"
-		],
-		"answerIndex": 2
-	},
-	{
-		"id":18,
-		"question":"Quel pays a pour capitale Sofia ?",
-		"answers": [
-			"Bulgarie",
-			"Ukraine",
-			"Biélorussie"
-		],
-		"answerIndex": 0
-	},
-	{
-		"id":19,
-		"question":"Dans quel pays est enclavée la République de Saint-Marin ?",
-		"answers": [
-			"L'Autriche",
-			"La Suisse",
-			"L'Italie"
-		],
-		"answerIndex": 2
-	},
-	{
-		"id":20,
-		"question":"Combien y a-t-il de départements français ?",
-		"answers": [
-			"99",
-			"100",
-			"101"
-		],
-		"answerIndex": 2
-	}
-]
+{
+	"id":1,
+	"question":"Qui a dit 'Le sort en est jeté' (Alea jacta est) ?",
+	"answers": [
+		"Napoléon",
+		"Jules César",
+		"Staline"
+	],
+	"answerIndex": 1
+},
+{
+	"id":2,
+	"question":"Quel cinéaste à réalisé 'Parle avec elle' et 'Volver' ?",
+	"answers": [
+		"Woody Allen",
+		"Pablo Trapero",
+		"Pablo Almodovar"
+	],
+	"answerIndex": 2
+},
+{
+	"id":3,
+	"question":"Dans quelle ville italienne se situe l’action de la pièce de Shakespeare 'Roméo et Juliette' ?",
+	"answers": [
+		"Milan",
+		"Vérone",
+		"Rome"
+	],
+	"answerIndex": 1
+},
+{
+	"id":4,
+	"question":"Par quel mot désigne-t-on une belle-mère cruelle ?",
+	"answers": [
+		"Une chenapan",
+		"Une godiche",
+		"Une marâtre"
+	],
+	"answerIndex": 2
+},
+{
+	"id":5,
+	"question":"Qui était le dieu de la guerre dans la mythologie grecque ?",
+	"answers": [
+		"Arès",
+		"Hermès",
+		"Hadès"
+	],
+	"answerIndex": 0
+},
+{
+	"id":6,
+	"question":"Dans quel sport s’est illustré Bjorn Borg ?",
+	"answers": [
+		"Football",
+		"Golf",
+		"Tennis"
+	],
+	"answerIndex": 2
+},
+{
+	"id":7,
+	"question":"Quel est le nom de la mascotte de l’Euro 2016 ?",
+	"answers": [
+		"Super Victor",
+		"Goalix",
+		"Driblou"
+	],
+	"answerIndex": 0
+},
+{
+	"id":8,
+	"question":"Face à quel joueur Yannick Noah a-t-il remporté Roland-Garros en 1983 ?",
+	"answers": [
+		"Mats Wilander",
+		"Ivan Lendl",
+		"John McEnroe"
+	],
+	"answerIndex": 0
+},
+{
+	"id":9,
+	"question":"Quel est le nom du plus jeune vainqueur de Roland-Garros ?",
+	"answers": [
+		"Rafael Nadal",
+		"Michael Chang",
+		"André Agassi"
+	],
+	"answerIndex": 1
+},
+{
+	"id":10,
+	"question":"Quel est le record du monde masculin du saut à la perche ?",
+	"answers": [
+		"6m05",
+		"6m11",
+		"6m16"
+	],
+	"answerIndex": 2
+},
+{
+	"id":11,
+	"question":"De quel pays, les Beatles sont-ils originaires ?",
+	"answers": [
+		"Angleterre",
+		"Etats-Unis",
+		"Irlande"
+	],
+	"answerIndex": 0
+},
+{
+	"id":12,
+	"question":" Dans quelle émission télé, le groupe Fréro Delavega s’est-il fait connaître ?",
+	"answers": [
+		"Nouvelle Star",
+		"The Voice",
+		"Star Academy"
+	],
+	"answerIndex": 1
+},
+{
+	"id":13,
+	"question":"Qui était le chanteur mythique du groupe Nirvana ?",
+	"answers": [
+		"Ian Curtis",
+		"Bono",
+		"Kurt Cobain"
+	],
+	"answerIndex": 2
+},
+{
+	"id":14,
+	"question":"Dans quel groupe de musique Roger Waters, David Gilmour, Syd Barrett ont-ils joué ?",
+	"answers": [
+		"Offspring",
+		"Pink Floyd",
+		"Coldplay"
+	],
+	"answerIndex": 1
+},
+{
+	"id":15,
+	"question":"Qui est la mère de David Hallyday ?",
+	"answers": [
+		"Sylvie Vartan",
+		"Nathalie Baye",
+		"Michèle Torr"
+	],
+	"answerIndex": 0
+},
+{
+	"id":16,
+	"question":"Sur quelle île se trouve la Statue de la Liberté ?",
+	"answers": [
+		"Ellis Island",
+		"Liberty Island",
+		"eMule Island"
+	],
+	"answerIndex": 1
+},
+{
+	"id":17,
+	"question":"Où siège la Cour de Justice de l’Union européenne ?",
+	"answers": [
+		"Amsterdam",
+		"Maastricht",
+		"Luxembourg"
+	],
+	"answerIndex": 2
+},
+{
+	"id":18,
+	"question":"Quel pays a pour capitale Sofia ?",
+	"answers": [
+		"Bulgarie",
+		"Ukraine",
+		"Biélorussie"
+	],
+	"answerIndex": 0
+},
+{
+	"id":19,
+	"question":"Dans quel pays est enclavée la République de Saint-Marin ?",
+	"answers": [
+		"L'Autriche",
+		"La Suisse",
+		"L'Italie"
+	],
+	"answerIndex": 2
+},
+{
+	"id":20,
+	"question":"Combien y a-t-il de départements français ?",
+	"answers": [
+		"99",
+		"100",
+		"101"
+	],
+	"answerIndex": 2
+}
