@@ -1,0 +1,402 @@
+[
+	{
+		"id":1,
+		"question":"Qui a dit 'Le sort en est jeté' (Alea jacta est) ?",
+		"answers": [
+			"Napoléon",
+			"Jules César",
+			"Vercingétorix"
+		],
+		"answerIndex": 1
+	},
+	{
+		"id":2,
+		"question":"Quel cinéaste à réalisé 'Parle avec elle' et 'Volver' ?",
+		"answers": [
+			"Woody Allen",
+			"Pablo Trapero",
+			"Pablo Almodovar"
+		],
+		"answerIndex": 2
+	},
+	{
+		"id":3,
+		"question":"Dans quelle ville italienne se situe l’action de la pièce de Shakespeare 'Roméo et Juliette' ?",
+		"answers": [
+			"Milan",
+			"Vérone",
+			"Rome"
+		],
+		"answerIndex": 1
+	},
+	{
+		"id":4,
+		"question":"Par quel mot désigne-t-on une belle-mère cruelle ?",
+		"answers": [
+			"Une chenapan",
+			"Une godiche",
+			"Une marâtre"
+		],
+		"answerIndex": 2
+	},
+	{
+		"id":5,
+		"question":"Qui était le dieu de la guerre dans la mythologie grecque ?",
+		"answers": [
+			"Arès",
+			"Hermès",
+			"Hadès"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":6,
+		"question":"Dans quel sport s’est illustré Bjorn Borg ?",
+		"answers": [
+			"Football",
+			"Golf",
+			"Tennis"
+		],
+		"answerIndex": 2
+	},
+	{
+		"id":7,
+		"question":"Quel est le nom de la mascotte de l’Euro 2016 ?",
+		"answers": [
+			"Super Victor",
+			"Goalix",
+			"Driblou"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":8,
+		"question":"Face à quel joueur Yannick Noah a-t-il remporté Roland-Garros en 1983 ?",
+		"answers": [
+			"Mats Wilander",
+			"Ivan Lendl",
+			"John McEnroe"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":9,
+		"question":"Quel est le nom du plus jeune vainqueur de Roland-Garros ?",
+		"answers": [
+			"Rafael Nadal",
+			"Michael Chang",
+			"André Agassi"
+		],
+		"answerIndex": 1
+	},
+	{
+		"id":10,
+		"question":"Quel est le record du monde masculin du saut à la perche ?",
+		"answers": [
+			"6m05",
+			"6m11",
+			"6m16"
+		],
+		"answerIndex": 2
+	},
+	{
+		"id":11,
+		"question":"De quel pays, les Beatles sont-ils originaires ?",
+		"answers": [
+			"Angleterre",
+			"Etats-Unis",
+			"Irlande"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":12,
+		"question":" Dans quelle émission télé, le groupe Fréro Delavega s’est-il fait connaître ?",
+		"answers": [
+			"Nouvelle Star",
+			"The Voice",
+			"Star Academy"
+		],
+		"answerIndex": 1
+	},
+	{
+		"id":13,
+		"question":"Qui était le chanteur mythique du groupe Nirvana ?",
+		"answers": [
+			"Ian Curtis",
+			"Bono",
+			"Kurt Cobain"
+		],
+		"answerIndex": 2
+	},
+	{
+		"id":14,
+		"question":"Dans quel groupe de musique Roger Waters, David Gilmour, Syd Barrett ont-ils joué ?",
+		"answers": [
+			"Offspring",
+			"Pink Floyd",
+			"Coldplay"
+		],
+		"answerIndex": 1
+	},
+	{
+		"id":15,
+		"question":"Qui est la mère de David Hallyday ?",
+		"answers": [
+			"Sylvie Vartan",
+			"Nathalie Baye",
+			"Michèle Torr"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":16,
+		"question":"Sur quelle île se trouve la Statue de la Liberté ?",
+		"answers": [
+			"Ellis Island",
+			"Liberty Island",
+			"eMule Island"
+		],
+		"answerIndex": 1
+	},
+	{
+		"id":17,
+		"question":"Où siège la Cour de Justice de l’Union européenne ?",
+		"answers": [
+			"Amsterdam",
+			"Maastricht",
+			"Luxembourg"
+		],
+		"answerIndex": 2
+	},
+	{
+		"id":18,
+		"question":"Quel pays a pour capitale Sofia ?",
+		"answers": [
+			"Bulgarie",
+			"Ukraine",
+			"Biélorussie"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":19,
+		"question":"Dans quel pays est enclavée la République de Saint-Marin ?",
+		"answers": [
+			"L'Autriche",
+			"La Suisse",
+			"L'Italie"
+		],
+		"answerIndex": 2
+	},
+	{
+		"id":20,
+		"question":"Combien y a-t-il de départements français ?",
+		"answers": [
+			"99",
+			"100",
+			"101"
+		],
+		"answerIndex": 2
+	}
+	{
+		"id":21,
+		"question":"Que s'est-il passé lorsque Flaubert a publié Madame Bovary ?",
+		"answers": [
+			"Il a été censuré",
+			"L'auteur a été poursuivi pour immoralité",
+			"Il a reçu un bon accueil"
+		],
+		"answerIndex": 1
+	},
+	{
+		"id":22,
+		"question":"Quel footballeur français fut le premier à partir jouer au Real Madrid ?",
+		"answers": [
+			"Zinédine Zidane",
+			"Michel Platini",
+			"Raymond Kopa"
+		],
+		"answerIndex": 2
+	},
+	{
+		"id":23,
+		"question":"Comment s'appelle la plus grande gymnaste de tous les temps, d'origine roumaine ?",
+		"answers": [
+			"Nadia Comaneci",
+			"Emilie Le Pennec",
+			"Svetlana Popescu"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":24,
+		"question":"'Helter Skleter' est une chanson... ",
+		"answers": [
+			"des Beatles",
+			"des Rolling Stones",
+			"de Led Zeppelin"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":25,
+		"question":"La pénicilline a été découverte par...",
+		"answers": [
+			"Ambroise Paté",
+			"Alexander Fleming",
+			"Louis Pasteur"
+		],
+		"answerIndex": 1
+	},
+	{
+		"id":26,
+		"question":"Quel département porte le numéro 18 ?",
+		"answers": [
+			"Le Cantal",
+			"La Charente",
+			"Le Cher"
+		],
+		"answerIndex": 2
+	},
+	{
+		"id":27,
+		"question":"Après l'Everest, le plus haut sommet du monde est...",
+		"answers": [
+			"Le K2",
+			"L'Annapurna",
+			"L'Aconcagua"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":28,
+		"question":"Lugdunum, c'est le nom romain d'une ville qui deviendra...",
+		"answers": [
+			"Lyon",
+			"Londres",
+			"Paris"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":29,
+		"question":"Complétez les paroles de cette chanson de Céline Dion : 'On ne change pas, on met juste...'",
+		"answers": [
+			"les costumes d'autres sur soi",
+			"des déguisements de papier",
+			"ses pas dans ceux des autres"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":30,
+		"question":"'Le rouge et le noir' est un classique de...",
+		"answers": [
+			"Maupassant",
+			"Stendhal",
+			"Flaubert"
+		],
+		"answerIndex": 1
+	},
+	{
+		"id":31,
+		"question":"De ces trois évènements, lequel est le plus récent ?",
+		"answers": [
+			"Le naufrage du Titanic",
+			"La naissance de Gandhi",
+			"L'inauguration de la Tour Eiffel"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":32,
+		"question":" De quel événement de sa vie Victor Hugo s'est-il inspiré pour écrire le poème 'Demain dès l'aube' ?",
+		"answers": [
+			"La mort de sa fille",
+			"La mort de sa femme",
+			"De son exil"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":33,
+		"question":"De quel ministère Lionel Jospin a-t-il eu la charge, de 1988 à 1992 ?",
+		"answers": [
+			"L'éducation nationale",
+			"La Culture et la Communication",
+			"Les Affaires Etrangères"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":34,
+		"question":"Dans Game of Thrones, quel est le nom des deux continents où se déroule la série ?",
+		"answers": [
+			"Tic et Tac",
+			"Le Mordor et la Comté",
+			"Essos et Westeros"
+		],
+		"answerIndex": 2
+	},
+	{
+		"id":35,
+		"question":"Quelle la particularité du fleuve afircain Okavango ?",
+		"answers": [
+			"Ses eaux ne rejoignent jamais l'océan",
+			"Les crocodiles et caïmans ont disparu",
+			"Il disparait dans une faille géologique et réapparait dans la forêt équatoriale"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":36,
+		"question":"Quel est le point commun entre les films Shining (1980), Spartacus (1961) et Full Metal Jacket (1987) ?",
+		"answers": [
+			"Ils ont gagné l'Oscar du meilleur film",
+			"Ils ont été réalisés par Stanley Kubrick",
+			"De notoriété publique, ce sont de très mauvais films"
+		],
+		"answerIndex": 1
+	},
+	{
+		"id":37,
+		"question":"Quel pays possède le plus grand accès à la mer ?",
+		"answers": [
+			"Le Canada",
+			"L'Australie",
+			"La Russie"
+		],
+		"answerIndex": 0
+	},
+	{
+		"id":38,
+		"question":"Qu'a inventé Nicéphore Niépce en 1826 ?",
+		"answers": [
+			"La machine à vapeur",
+			"La photographie",
+			"La radio"
+		],
+		"answerIndex": 1
+	},
+	{
+		"id":39,
+		"question":"Le laiton est alliage de deux métaux. Lesquels ?",
+		"answers": [
+			"Cuivre et zinc",
+			"Plomb et cuivre",
+			"Fer et cuivre"
+		],
+		"answerIndex": 2
+	},
+	{
+		"id":40,
+		"question":"Où a été enterré Victor Hugo ?",
+		"answers": [
+			"Au Panthéon, à Paris",
+			"Au cimetière du Père Lachaise, à Paris",
+			"Dans sa ville natale, à Besançon"
+		],
+		"answerIndex": 0
+	}
+]
